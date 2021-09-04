@@ -126,3 +126,4 @@ Received Import Request.
 Start importing Assets/Materials/Herringbone_Brick_baseColor.png using Guid(6ead69485ce636c4798bcc6b0a921119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3646b6e2c70be9b4bd8894033ceba900') in 0.012710 seconds
   Import took 0.015674 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
