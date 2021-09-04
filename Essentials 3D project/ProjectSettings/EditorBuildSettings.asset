@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FloorIslava.unity
+    guid: 224e90982940df7458ed7a7baf71054d
   m_configObjects: {}
